@@ -1,0 +1,10 @@
+F:\Card Game V 5.0\Card Creator V5.0\Card Creator V5.0\obj\Debug\Card_Creator_V5._0.Form1.resources
+F:\Card Game V 5.0\Card Creator V5.0\Card Creator V5.0\obj\Debug\Card_Creator_V5._0.Properties.Resources.resources
+F:\Card Game V 5.0\Card Creator V5.0\Card Creator V5.0\obj\Debug\Card Creator V5.0.csproj.GenerateResource.cache
+F:\Card Game V 5.0\Card Creator V5.0\Card Creator V5.0\obj\Debug\Card Creator V5.0.csproj.CoreCompileInputs.cache
+F:\Card Game V 5.0\Card Creator V5.0\Card Creator V5.0\bin\Debug\Card Creator V5.0.exe.config
+F:\Card Game V 5.0\Card Creator V5.0\Card Creator V5.0\bin\Debug\Card Creator V5.0.exe
+F:\Card Game V 5.0\Card Creator V5.0\Card Creator V5.0\bin\Debug\Card Creator V5.0.pdb
+F:\Card Game V 5.0\Card Creator V5.0\Card Creator V5.0\obj\Debug\Card Creator V5.0.exe
+F:\Card Game V 5.0\Card Creator V5.0\Card Creator V5.0\obj\Debug\Card Creator V5.0.pdb
+F:\Card Game V 5.0\Card Creator V5.0\Card Creator V5.0\obj\Debug\Card Creator V5.0.csprojAssemblyReference.cache
